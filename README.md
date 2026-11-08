@@ -1,4 +1,1 @@
-C++
-Python
-Finance
-saulcoops@gmail.com
+iygliaa, taagiy
